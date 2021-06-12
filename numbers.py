@@ -18,3 +18,5 @@ print(f"Your age is {age}")
 # Puedo convertirlo en un numero si es lo que necesito
 new_age = int(age) + 4
 print(f"In four years you will have {new_age} years")
+old_age = int(age) - 4
+print(f"Your age was {old_age} four years ago")
