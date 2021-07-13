@@ -58,7 +58,7 @@ if egg >= 2:
     else:
         print("You have to buy flour")
 else:
-    print("You have to buy eggs")
+    print("You don't have enough eggs")
 
 
 # Comprobar que un numero esta entre dos numeros
