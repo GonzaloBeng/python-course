@@ -28,7 +28,7 @@ elif color == "Blue":  # Sirve para hacer una comparacion adicional
 else:
     print("Any color except red and blue")
 
-# Ejemplo de un usuario
+# Example of a user
 name = "John"
 last_name = "Johnson"
 
