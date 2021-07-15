@@ -1,6 +1,6 @@
 # Set: Coleccion desordenada y sin indice
 
-colors = {"Red", "Blue", "Green"}
+colors = {"Red", "Blue", "Green", "Yellow"}
 
 print(type(colors))
 print("Red" in colors)  # Consulta si un dato esta en el Set (Booleano)
