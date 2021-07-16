@@ -8,8 +8,8 @@ print(dir(myStr))
 
 print(myStr.title())  # Mayus en la primera letra
 
-print(myStr.upper())  # Todo en mayus
-print(myStr.lower())  # Todo en minus
+print(myStr.upper())  # Todo en mayuscula
+print(myStr.lower())  # Todo en minuscula
 print(myStr.swapcase())  # Alterna mayus y minus
 print(myStr.capitalize())  # Vuelve mayus solo la primera letra del texto
 print(myStr.replace("Hello", "Goodbye"))  # Reemplaza una palabra por otra
