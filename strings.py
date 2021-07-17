@@ -36,7 +36,7 @@ print(myStr.index("r"))
 print(myStr.isnumeric())
 print(myStr.isalpha())
 
-# Consultar una posicion especifica
+# Consultar posiciones especificas del string
 print(myStr[7], myStr[3], myStr[4], myStr[8])
 # Con los numeros negativos puedo hacerlo de modo inverso
 print(myStr[-7], myStr[-2], myStr[-4], myStr[-3])
