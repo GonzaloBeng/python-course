@@ -26,7 +26,7 @@ print(myStr.startswith("World"))  # Permite consultar como termina el string
 print(myStr.split())  # Basado en los " ".
 print(myStr.split("l"))  # Tambien se puede separar por caracter
 
-# Buscar un caracter
+# Buscar un caracter en particular
 print(myStr.find("o"))  # Devuelve la POSICION del caracter
 # Para saber el tamaño completo del string
 print(len(myStr))
