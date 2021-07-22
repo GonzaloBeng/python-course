@@ -30,7 +30,7 @@ print(myStr.split("l"))  # Tambien se puede separar por caracter
 print(myStr.find("o"))  # Devuelve la POSICION del caracter
 # Para saber el tamaño completo del string
 print(len(myStr))
-# Buscar el indice de un caracter
+# Buscar el index de un caracter
 print(myStr.index("r"))
 # Para saber si es numerico o alfanumerico
 print(myStr.isnumeric())
